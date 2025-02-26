@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+/Content/FantasyInterior01
+/Content/__ExternalActors__
+/Content/Scene_Banquet
